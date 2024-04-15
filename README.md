@@ -1,0 +1,1 @@
+# Codewars_Is_Num_Prime
